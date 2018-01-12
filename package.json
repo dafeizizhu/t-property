@@ -1,0 +1,23 @@
+{
+  "name": "t-property",
+  "version": "1.0.0",
+  "description": "A client for tafproperty server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dafeizizhu/t-property.git"
+  },
+  "keywords": [
+    "taf",
+    "property"
+  ],
+  "author": "maizhiying",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dafeizizhu/t-property/issues"
+  },
+  "homepage": "https://github.com/dafeizizhu/t-property#readme"
+}
